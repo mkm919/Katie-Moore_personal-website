@@ -1,0 +1,16 @@
+td {padding-left:10px;} td {padding-left:70px;} 
+tr:nth-child(even) {
+  background-color: #6E260E;
+
+}
+.column {
+  float: left;
+  height:50%;
+  width: 30%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}

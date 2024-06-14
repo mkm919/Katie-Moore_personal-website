@@ -1,0 +1,4 @@
+body{background-color:#ADD8E6; color:#00008B;font-family: georgia; font-size:14px; line-height:1.6;}
+.box-1{border:5px black solid;}
+.box-2{border:5px red solid;}
+.box-3{border:5px green solid;}
